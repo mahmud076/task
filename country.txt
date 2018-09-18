@@ -3,7 +3,8 @@ country list
 bangladesh
 india
 nepal
-
+butan
+russia
 
 
 Thank you
